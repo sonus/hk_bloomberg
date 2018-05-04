@@ -1,0 +1,9 @@
+{
+	"name": "WebCrawler",
+	"description": "XPath based web crawler library.",
+	"autoload": {
+		"psr-0": {
+			"WebCrawler": "src/"
+		}
+	}
+}
